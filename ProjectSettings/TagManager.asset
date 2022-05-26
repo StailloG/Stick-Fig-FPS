@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - Enemy
+  - Bullet
+  - Ground
+  - Health
+  - Enemy Bullet
+  - Zombie Trigger
+  - Mermaid Trigger
+  - Mermaid Trigger 2
+  - Note
+  - Crumpled Paper
+  - Eraser
+  - MusicVolume
+  - Canvas
+  - Dont Destroy
+  - Music
+  - Music2
+  - Music3
+  - Music4
+  - Music5
+  - Timer
+  - Spawn
+  - Main
+  - Escape
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
